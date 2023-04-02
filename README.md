@@ -1,6 +1,6 @@
 # Descripcion:
 
-Esta es una aplicacion para gestionar usuarios, contine un crud completo, y la interface grafica funciona con Swing
+Esta es una aplicacion se realiza como trabajo final de la semana tres, de la materia Plataformas de Desarrollo de Software para gestionar usuarios, realizando interface grafica, y realizando un CRUD completo, para dar una funcionalidad completa al software, y realziando la aplicacion bajo el patron de diseño Modelo-Vista-Controlador.
 
 # Dasarrolladores:
     Jhon Eduard Triana Vargas
@@ -10,9 +10,9 @@ Esta es una aplicacion para gestionar usuarios, contine un crud completo, y la i
     Camilo Torres Mosquera
 
 # Notas: 
-  para poder hacer uso de esta aplicacion, ya que este repositorio solo tiene el codigo fuente.
+  para poder hacer uso de esta aplicacion, ya que este repositorio solo tiene el codigo fuente, debe realizar la instalacion del software necesario con las versiones que se indican.
 
 # Instalaciones.
-    JDK
-    MySQL
-    Netbeans
+    JDK 11
+    MySQL 8
+    Netbeans 12
